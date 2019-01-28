@@ -7,5 +7,7 @@ Ce projet répond à l'enoncé de l'activité : Créez une application de type b
 
 # Comment fait on ?
 Récupérez le repository.
+
 Saisissez npm install dans l'invite de commandes depuis le dossier choisi.
+
 Saisissez ng serve --open pour lancer le serveur local et ouvrir la page dans votre navigateur préféré.
