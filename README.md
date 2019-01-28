@@ -2,6 +2,7 @@
 
 # Qu'est ce que c'est ?
 Ce projet répond à l'enoncé de l'activité : Créez une application de type blog
+
 (https://openclassrooms.com/fr/courses/4668271-developpez-des-applications-web-avec-angular/exercises/2353)
 
 # Comment fait on ?
